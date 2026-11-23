@@ -1,4 +1,4 @@
-# 🚀 BR Developer — Engenharia de Software & Soluções Web
+# 🚀 BR Developer — Software House & Soluções Web
 
 Transformamos ideias de negócio em aplicações digitais rápidas, escaláveis e sob medida. Especialistas no desenvolvimento full-stack moderno para empresas que procuram performance e presença digital de alto nível.
 
